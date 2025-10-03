@@ -1,0 +1,15 @@
+@import 'styles/_variables';
+
+.board {
+  display: flex;
+  flex-direction: column;
+  outline: none;
+  height: $board-height;
+  margin: 0 auto;
+
+  &__row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+}

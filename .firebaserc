@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "react-portfolio-54ccd"
+  },
+  "targets": {
+    "react-portfolio-54ccd": {
+      "hosting": {
+        "pathfinder_visualizer": [
+          "pathfinder-visualizer-harsh"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
