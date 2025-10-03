@@ -35,29 +35,32 @@ const Container = () => {
   return (
     <>
       <Helmet>
-        <title>Pathfinding Visualizer</title>
-        <meta property="og:title" content="Pathfinding Visualizer" />
+        <title>Pathfinding Visualizer — DEVARSH PATEL</title>
+        <meta property="og:title" content="Pathfinding Visualizer — DEVARSH PATEL" />
         <meta property="og:type" content="website" />
         <meta
           property="og:url"
-          content="https://pathfinding-visualizer.harshjobanputra.com/"
+          content="https://devarshpatel1506.github.io/Pathfinding-Visualizer/"
         />
         <meta
           property="og:image"
-          content="https://raw.githubusercontent.com/harsh2201/Pathfinding-Visualizer/master/images/visualizer.gif"
+          content="https://raw.githubusercontent.com/devarshpatel1506/Pathfinding-Visualizer/main/images/visualizer.gif"
         />
       </Helmet>
+
       <header className="header">
         <h1 className="header__title">Pathfinding Visualizer</h1>
       </header>
+
       <ModalError isErrorOpen={isErrorOpen} onErrorClose={onErrorClose} />
       <ModalInfo isHelped={isHelped} onHelpClose={onHelpClose} />
       <Header />
       <Board />
+
       <footer className="footer">
-        <p className="footer__author">Made by Harsh Jobanputra</p>
+        <p className="footer__author">Made by DEVARSH PATEL</p>
         <a
-          href="https://github.com/harsh2201/Pathfinding-Visualizer"
+          href="https://github.com/devarshpatel1506/Pathfinding-Visualizer"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -69,3 +72,4 @@ const Container = () => {
 };
 
 export default Container;
+
